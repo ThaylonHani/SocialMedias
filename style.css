@@ -1,0 +1,51 @@
+ * {
+     margin: 0;
+ }
+ 
+ body {
+     background-color: gray;
+ }
+ 
+ header {
+     display: flex;
+     justify-content: center;
+ }
+ 
+ main {
+     display: grid;
+     grid-column: 2;
+     justify-content: center;
+ }
+ 
+ input {
+     background-color: whitesmoke;
+ }
+ 
+ button {
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 13px;
+     background-color: slategrey;
+ }
+ 
+ #Instagram {
+     cursor: auto;
+     width: fit-content;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .instagram {
+     display: flex;
+     align-items: center;
+     background-color: white;
+     border: 0;
+     cursor: pointer;
+     background-color: gray;
+ }
+ 
+ footer {
+     display: flex;
+     justify-content: space-between;
+     margin-right: 1rem;
+ }

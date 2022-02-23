@@ -1,0 +1,1 @@
+Este projeto é simples, ele modifica a url do botão para uma em que entrará em um perfil com o nome em que você colocar no input.
